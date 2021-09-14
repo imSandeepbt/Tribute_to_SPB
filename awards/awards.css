@@ -1,0 +1,23 @@
+body {
+    background-image: url(../images/ww.jpg);
+    background-repeat: no-repeat;
+    font-family: monotype corsiva, sans-serif;
+    font-size: 1.5rem;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 80%;
+    font-family: monotype corsiva, serif;
+    font-size: 1.4rem;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}

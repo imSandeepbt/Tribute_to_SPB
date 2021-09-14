@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/ww.jpg);
+    background-repeat: no-repeat;
+    font-family: monotype corsiva, sans-serif;
+    font-size: 1.5rem;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.vscode {
+    display: block;
+    text-align: center;
+}
+
+img {
+    padding: 2rem;
+    width: 40%;
+    height: 40%;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-family: monotype corsiva, serif;
+    text-align: center;
+}
